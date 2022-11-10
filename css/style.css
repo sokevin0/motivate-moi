@@ -127,7 +127,7 @@ header.shadow.logo{
 .homeverset {
     width: 100%;
     min-height: 600px;
-    background-image: url(/assets/bible4.jpg);
+    background-image: url(assets/bible4.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     justify-content: center;
@@ -143,7 +143,7 @@ header.shadow.logo{
 .homevideo{
     width: 100%;
     min-height: 550px;
-    background-image: url(/assets/video.webp);
+    background-image: url(assets/video.webp);
     background-repeat: no-repeat;
     background-size: 100%;
     justify-content: center;
