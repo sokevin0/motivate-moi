@@ -82,15 +82,15 @@ header.shadow.logo{
     background: hsl(24, 98%, 54%);
     transition: 0.3ms;
 }
-       .home{
-   background:url(/assets/silhouette-gens-heureux-temps_1150-5391.webp);
-   width: 100%;
-   min-height: 550px;
-   background-size: cover;
-   justify-content: center;
-   align-items: center;
-   display: grid;
-   transition: 5s;
+.home{
+  background: cadetblue;
+  width: 100%;
+  min-height: 550px;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  transition: 5s;
 }
 .homeverset {
     width: 100%;
