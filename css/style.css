@@ -93,34 +93,6 @@ header.shadow.logo{
    align-items: center;
    display: grid;
    transition: 5s;
-   /*Animation */
-    animation: animation;
-    animation-duration: 30s;
-    animation-play-state: running;
-    animation-timing-function: ease-in-out;
-    animation-fill-mode: forwards;
-    animation-iteration-count: infinite;
-}
-/*images animation*/
-@keyframes animation {
-    10%{
-        background-image: url(/assets/transite12.jpg);
-    }
-    20%{
-       background-image: url(/assets/transite3.jpg);
-        }
-    30%{
-        background-image: url(/assets/transite5.jpg);
-        }
-    50% {
-         background-image: url(/assets/transite11.jpg)
-     }
-    60%{
-         background-image: url(/assets/transite10.jpg);
-        }
-    80% {
-         background-image: url(/assets/transite14.jpg);
-         }
 }
 .homeverset {
     width: 100%;
