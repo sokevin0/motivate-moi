@@ -84,7 +84,7 @@ header.shadow.logo{
 }
 /* Home  */ 
 .home{
-    background-image: url(/assets/silhouette-gens-heureux-temps_1150-5391.webp);
+    background-image: url(/assets/transite1.jpg);
    width: 100%;
    min-height: 550px;
    background-repeat: no-repeat;
@@ -95,7 +95,7 @@ header.shadow.logo{
    transition: 5s;
    /*Animation */
     animation: animation;
-    animation-duration: 20s;
+    animation-duration: 30s;
     animation-play-state: running;
     animation-timing-function: ease-in-out;
     animation-fill-mode: forwards;
@@ -121,9 +121,6 @@ header.shadow.logo{
     80% {
          background-image: url(/assets/transite14.jpg);
          }
-        100% {
-            background-image: url(/assets/silhouette-gens-heureux-temps_1150-5391.webp);
-        }
 }
 .homeverset {
     width: 100%;
